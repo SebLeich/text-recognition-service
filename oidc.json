@@ -1,0 +1,6 @@
+{
+    "ids": "https://develserv01.comost.lokal",
+    "token_introspection": "/identity-service/connect/introspect",
+    "api_resource": "ai-service",
+    "api_secret": "f67qmG7JbPnAW2u27kULrEJEuby7hZwNjTKGrpRl1GuPLrvEZ1U1w67pJLeC6PeD"
+}

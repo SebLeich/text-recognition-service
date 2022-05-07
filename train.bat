@@ -1,0 +1,1 @@
+python -m spacy train ./config.cfg --output ./language-models --paths.train ./train.spacy --paths.dev ./train.spacy
